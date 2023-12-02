@@ -25,4 +25,4 @@ To run this landing page locally, follow these steps:
 2. Open the index.html file in your preferred web browser.
 
 - Author Giorgi Beridze [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/giorgi-beridze-427902238/)
-**Have fun building!** 🚀
+- **Have fun building!** 🚀
