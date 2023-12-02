@@ -13,7 +13,6 @@ Check out the live demo of the Equalizer Landing Page [here](https://berogio.git
 - CSS3
 - JavaScript
 
-- 
 ## Getting Started
 
 To run this landing page locally, follow these steps:
